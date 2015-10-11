@@ -1,0 +1,19 @@
+body {
+	background-image:url('background.png');
+	background-repeat:no-repeat;
+	z-index: : -1;
+}
+
+#trash {
+	position:absolute;
+	z-index: 0;
+	left:700px;
+	top :370px;
+}
+
+.fire {
+	position : relative;
+	z-index: 1;
+	top :400px;
+}
+
